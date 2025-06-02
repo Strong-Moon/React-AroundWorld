@@ -3,7 +3,11 @@ import Spinner from "./Spinner";
 import CityItem from "./CityItem";
 import Message from "./Message";
 
-function CityList({ cities, isLoading }) {
+import { useCities } from "../contexts/CitiesContext.jsx";
+
+function CityList() {
+  const { cities, isLoading } = useCities();
+
   if (isLoading) {
     return <Spinner>Loading...</Spinner>;
   }
