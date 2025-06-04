@@ -37,30 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "13d5",
-      "cityName": "Ankara",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2025-06-04T09:50:08.824Z",
-      "notes": "perfect",
-      "position": {
-        "lat": "39.926588421909436",
-        "lng": "33.20068359375001"
-      }
-    },
-    {
-      "id": "00cb",
-      "cityName": "Bourbon-l'Archambault",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-06-04T09:56:04.574Z",
-      "notes": "this is good",
-      "position": {
-        "lat": "46.5739667965278",
-        "lng": "3.0541992187500004"
-      }
-    },
-    {
       "id": "f87d",
       "cityName": "Mosqueruela",
       "country": "Spain",
